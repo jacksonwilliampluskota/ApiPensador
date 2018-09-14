@@ -1,0 +1,21 @@
+{
+  "name": "apipensador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson William Pluskota",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14",
+    "nightmare": "^3.0.1",
+    "node-html-parser": "^1.1.10",
+    "superagent": "^3.8.3"
+  }
+}
